@@ -1,2 +1,2 @@
-# Competicoes-Google
- Algumas atividades referentes a competições do Google
+# Competicoes
+ **Alguma atividades referentes a Competições que participei**
